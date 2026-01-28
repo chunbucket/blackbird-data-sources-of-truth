@@ -4,8 +4,6 @@
 
 | Setting                 | Value                                             |
 | ----------------------- | ------------------------------------------------- |
-| **Base URL**            | https://blackbird-labs.metabaseapp.com            |
-| **API Key (Read-Only)** | `mb_jBl8Wgzw36Ow07DX86+5YGlIWCtAw1VXfZ8O277/PFI=` |
 
 ## Databases
 
